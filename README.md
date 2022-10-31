@@ -3,4 +3,4 @@
 Información  y historia del tema elegido
 
 
-Integrantes: Lucas Ugarte - Sofia Pereyra
+Integrantes: Lucas Ugarte
